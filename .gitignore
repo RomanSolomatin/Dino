@@ -4,3 +4,5 @@ DerivedDataCache/*
 Content/KiteDemo/*
 *.log
 *.ini
+
+!Config/*.ini
