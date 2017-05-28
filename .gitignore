@@ -6,3 +6,5 @@ Content/KiteDemo/*
 *.ini
 
 !Config/*.ini
+
+*desktop.ini
