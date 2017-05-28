@@ -8,3 +8,5 @@ Content/KiteDemo/*
 !Config/*.ini
 
 *desktop.ini
+
+Content/TopDownBP/Maps/*
